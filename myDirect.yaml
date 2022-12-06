@@ -1,0 +1,5 @@
+payload:
+  # 内容：自建的代理规则
+  
+  - DOMAIN-KEYWORD,chirmyram
+  - DOMAIN-KEYWORD,btnull
